@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(red,lightgreen);
+    text-align: center;
+    color: white;
+}
+#headerimage{
+    height: 70px;
+    width: 70px;
+}
+#sapienimg{
+    height: 200px;
+    width: 160px;
+    float: left;
+}
+#l1{
+    float: left;
+}
